@@ -1,1 +1,31 @@
-# myReact
+# bài tập react
+## Lý thuyết
+[CÂU 1] [https://codepen.io/hthinh110/pen/BaVqYXQ]
+[CÂU 2] 
+[CÂU 3] [https://codepen.io/hthinh110/pen/zYamRgM]
+[CÂU 4] [https://codepen.io/hthinh110/pen/RwJeMbW]
+[CÂU 5] [https://codepen.io/hthinh110/pen/JjZmLPV]
+[CÂU 6] [https://codepen.io/hthinh110/pen/yLERKLK]
+[CÂU 7] [https://codesandbox.io/s/cau-7-tfuph7?file=/src/App.js]
+[CÂU 8] [https://codepen.io/hthinh110/pen/jOKezEa]
+[CÂU 9] [https://codepen.io/hthinh110/pen/GRGWYWm]
+[CÂU 10] [https://codepen.io/hthinh110/pen/dyKvgRX]
+[CÂU 11] [https://codepen.io/hthinh110/pen/LYrWgLG
+[CÂU 12] [https://codepen.io/hthinh110/pen/VwdpVLM]
+[CÂU 13] [https://codepen.io/hthinh110/pen/XWYaQEp]
+[CÂU 14] [https://codepen.io/hthinh110/pen/ExRvJQm]
+[CÂU 15] [https://codepen.io/hthinh110/pen/LYrzmej]
+[CÂU 15C2] [https://codepen.io/hthinh110/pen/bGKvJZY]
+[CÂU 16] [https://codepen.io/hthinh110/pen/LYrzmQj]
+[CÂU 17] [https://codepen.io/hthinh110/pen/JjZrvLJ]
+[CÂU 18] [https://codesandbox.io/s/bai-18-q5poxo]
+[CÂU 19] [https://codepen.io/hthinh110/pen/NWzOYNa]
+[CÂU 20] [https://codepen.io/hthinh110/pen/gOKBeML]
+[CÂU 21] [https://codepen.io/hthinh110/pen/XWYxEKo]
+## Thực Hành
+[ Bài thực hành tạo component] [https://codesandbox.io/s/tao-component-6r3i6s]
+[ Bài thực hành pros và state] [https://codesandbox.io/s/bai-thuc-hanh-pros-va-state-k5xb8b]
+[ bài thực hành 1] [https://codesandbox.io/s/bai-thuc-hanh-1-n4okpz]
+[ bài thực hành 2] [https://codesandbox.io/s/bai-thuc-hanh-2-nn49vo]
+[ bài thực hành 3] [https://codesandbox.io/s/bai-thuc-hanh-3-kkco97]
+[bài hoàn chỉnh] [https://codesandbox.io/s/bai-hoan-chinh-kyzsn4]
